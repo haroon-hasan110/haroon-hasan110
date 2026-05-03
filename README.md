@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Haroon Hasan 👋
 
-<!--
-**haroon-hasan110/haroon-hasan110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FY Student — AI & ML | Learning Python & building real projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- **Date Intelligence Engine** — A Python CLI tool that generates a
+  cultural + personality profile from any date (multi-calendar, zodiac,
+  history facts)
+
+---
+
+## 🛠️ Tech I'm Learning
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-Learning-orange?logo=git)
+
+---
+
+## 📌 Current Focus
+
+- Clean Python architecture
+- Git & GitHub best practices
+- Building towards a web app (Flask → PWA)
+
+---
+
+*Building in public. One step at a time.* 🔨
