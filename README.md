@@ -1,6 +1,6 @@
 # Hi, I'm Haroon Hasan 👋
 
-FY Student — AI & ML | Learning Python & building real projects
+SY Student — AI & ML | Learning Python & building real projects
 
 ---
 
